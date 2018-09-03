@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".eventbus.EventBusActivity"></activity>
+        <activity android:name=".eventbus.TestActivity"></activity>
+        <activity android:name=".greendao.GreenDaoActivity"></activity>
     </application>
 
 </manifest>

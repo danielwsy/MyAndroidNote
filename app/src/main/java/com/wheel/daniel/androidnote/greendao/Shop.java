@@ -4,7 +4,7 @@ package com.wheel.daniel.androidnote.greendao;
  * @author danielwang
  * @Description:
  * @date 2018/9/3 15:06
- *
+ *  https://www.cnblogs.com/wjtaigwh/p/6394288.html
  * 1.@Entity：告诉GreenDao该对象为实体，只有被@Entity注释的Bean类才能被dao类操作
  * 2.@Id：对象的Id，使用Long类型作为EntityId，否则会报错。(autoincrement = true)表示主键会自增，如果false就会使用旧值
  * 3.@Property：可以自定义字段名，注意外键不能使用该属性
